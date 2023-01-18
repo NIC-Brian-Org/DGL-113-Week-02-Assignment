@@ -2,7 +2,7 @@
 
 1.  Create a new file `docs/app.js`.
 1.  Open `docs/index.html` in a new tab in your browser.
-1.  Add the required `<script>` element in `src/index.html` just
+1.  Add the required `<script>` element in `docs/index.html` just
     before the closing `</body>` tag to load `app.js`
 1.  Create a function `addItem` in `app.js` with one parameter
     `itemName` that logs the parameter to the console.
